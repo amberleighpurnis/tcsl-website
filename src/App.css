@@ -1,38 +1,134 @@
-.App {
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+#main-logo {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin: auto;
+  width: 700px;
+  height: 500px;
+}
+
+.home {
+  color: #112577;
+}
+.home header {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
   text-align: center;
+  font-family: "Piedra", cursive;
+}
+.home p {
+  font-family: "Poppins", sans-serif;
+}
+.home body {
+  font-family: "Poppins", sans-serif;
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.home a {
+  text-decoration: none;
+  color: #112577;
+}
+.teams {
+  color: #112577;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.rules {
+  color: #112577;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  text-align: justify;
+}
+.rules h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
+  text-align: center;
+  font-family: "Piedra", cursive;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.rules h3 {
+  font-size: 30px;
 }
 
-.App-link {
-  color: #61dafb;
+.rules h5 {
+  text-decoration: underline;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  font-size: 25px;
+}
+.rules li {
+  list-style-type: none;
+}
+.rules i {
+  color: red;
+}
+.schedule {
+  color: #112577;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.schedule h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
+  text-align: center;
+  font-family: "Piedra", cursive;
+}
+
+.stats {
+  color: #112577;
+}
+.stats h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
+  text-align: center;
+  font-family: "Piedra", cursive;
+}
+
+.e-committee {
+  color: #112577;
+}
+
+.e-committee h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
+  text-align: center;
+  font-family: "Piedra", cursive;
+}
+
+.e-committee h4 {
+  font-size: 30px;
+}
+
+.e-committee i {
+  color: red;
+}
+
+.photos {
+  color: #112577;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
 }
