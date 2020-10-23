@@ -1,7 +1,7 @@
 import React from "react";
 import "../../App.css";
 
-export default function Teams() {
+export default function Teams(props) {
   return (
     <div>
       <h1>Hello from Teams</h1>

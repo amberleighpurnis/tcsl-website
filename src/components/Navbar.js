@@ -28,7 +28,7 @@ export default function Navbar() {
   };
 
   return (
-    <>
+    <div>
       <nav className="navbar">
         <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
           <img src={logo} alt="logo" id="navbar-logo" />
@@ -83,6 +83,6 @@ export default function Navbar() {
           </li>
         </ul>
       </nav>
-    </>
+    </div>
   );
 }

@@ -5,9 +5,9 @@ export default function ECommittee() {
   return (
     <div className="e-committee">
       <div className="container">
-        <h1>Executive Committee 2021</h1>
         <div className="row">
-          <div className="column-3">
+          <div className="col-5">
+            <h1>Executive Committee 2021</h1>
             <ul className="general-managers">
               {" "}
               <h4> General Managers:</h4>
@@ -64,8 +64,7 @@ export default function ECommittee() {
               </li>
             </ul>
           </div>
-
-          <div className="column-3">
+          <div className="col-5">
             <h4>Elected Committee:</h4>
             <ul>
               {" "}

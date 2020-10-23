@@ -1,52 +1,52 @@
 export const MenuItems = [
   {
     title: "Baby Zepps",
-    path: "/baby-zepps",
+    path: "/teams/baby-zepps",
     cName: "dropdown-link",
   },
   {
     title: "Bad Dog",
-    path: "/bad-dog",
+    path: "/teams/bad-dog",
     cName: "dropdown-link",
   },
   {
     title: "Beauties",
-    path: "/beauties",
+    path: "/teams/beauties",
     cName: "dropdown-link",
   },
   {
     title: "Beavis & Buntheads",
-    path: "/development",
+    path: "/teams/beavis-and-buntheads",
     cName: "dropdown-link",
   },
   {
     title: "Comedy Bar",
-    path: "/comedy-bar",
+    path: "/teams/comedy-bar",
     cName: "dropdown-link",
   },
   {
     title: "Hecklers",
-    path: "/hecklers",
+    path: "/teams/hecklers",
     cName: "dropdown-link",
   },
   {
     title: "Jokebox",
-    path: "/jokebox",
+    path: "/teams/jokebox",
     cName: "dropdown-link",
   },
   {
     title: "Orphans",
-    path: "/orphans",
+    path: "/teams/orphans",
     cName: "dropdown-link",
   },
   {
     title: "Pring's Things",
-    path: "/pringsthings",
+    path: "/teams/pringsthings",
     cName: "dropdown-link",
   },
   {
     title: "Slo Claps",
-    path: "/sloclaps",
+    path: "/teams/sloclaps",
     cName: "dropdown-link",
   },
 ];
