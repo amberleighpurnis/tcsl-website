@@ -1,11 +1,11 @@
 import React from "react";
 import "../../Teams.css";
-import placeholder from "./Images/placeholder.png";
+import sloclapslogo from "./Images/sloclapslogo.png";
 
 export default function SloClaps() {
   return (
     <div className="sloclaps">
-      <img src={placeholder} alt="placeholder logo" />
+      <img src={sloclapslogo} alt="Slo Claps logo" />
       <h1>Slo Claps</h1>
       <br />
       <h2>Captians: NAME & NAME </h2>
