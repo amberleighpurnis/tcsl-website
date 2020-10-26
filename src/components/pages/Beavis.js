@@ -8,7 +8,7 @@ export default function Beavis() {
       <img src={babhlogo} alt="beavis and buntheads logo" />
       <h1>Beavis & Buntheads</h1>
       <br />
-      <h2>Captians: Freddie Rivas & Lexa Graham </h2>
+      <h2>Captains: Freddie Rivas & Lexa Graham </h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is

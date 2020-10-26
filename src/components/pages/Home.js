@@ -26,6 +26,12 @@ export default function Home() {
           and answer the required questions and a member of our executive team
           will get back to you.
         </p>
+        <br />
+        <h2>League Annoucements</h2>
+        <p>
+          <i class="fas fa-baseball-ball" />
+          {""} 2020 Season cancelled due to COVID-19
+        </p>
       </body>
       <footer>
         This website was coded by Amber Purnis and is

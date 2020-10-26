@@ -8,7 +8,7 @@ export default function Comedybar() {
       <img src={cbarlogo} alt="comedy bar logo" />
       <h1>Comedy Bar</h1>
       <br />
-      <h2>Captians: Gary Rideout & Jen Fitzgerald </h2>
+      <h2>Captains: Gary Rideout & Jen Fitzgerald </h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is

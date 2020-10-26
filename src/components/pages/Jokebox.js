@@ -1,14 +1,14 @@
 import React from "react";
 import "../../Teams.css";
-import placeholder from "./Images/placeholder.png";
+import jboxlogo from "./Images/jboxlogo.png";
 
 export default function Jokebox() {
   return (
     <div className="jokebox">
-      <img src={placeholder} alt="placeholder logo" />
+      <img src={jboxlogo} alt="jokebox logo" />
       <h1>Jokebox</h1>
       <br />
-      <h2>Captians: Deanna Palazzo Dalzell & James Dalzell </h2>
+      <h2>Captains: Deanna Palazzo Dalzell & James Dalzell </h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is

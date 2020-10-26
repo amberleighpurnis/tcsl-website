@@ -8,7 +8,7 @@ export default function Hecklers() {
       <img src={hlogo} alt="Hecklers logo" />
       <h1>Hecklers</h1>
       <br />
-      <h2>Captians: Micheal Wong & Justin Wong </h2>
+      <h2>Captains: Micheal Wong & Justin Wong </h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is

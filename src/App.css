@@ -10,8 +10,8 @@
   padding-top: 10px;
   padding-bottom: 20px;
   margin: auto;
-  width: 700px;
-  height: 500px;
+  width: 600px;
+  height: 400px;
 }
 .awards {
   color: #112577;
@@ -190,7 +190,8 @@ footer {
     display: block;
     padding-top: 10px;
     padding-bottom: 20px;
-    margin: auto;
+    margin-left: 10%;
+  margin-right: 10%;
     width: 350px;
     height: 250px;
   }

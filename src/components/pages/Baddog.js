@@ -8,7 +8,7 @@ export default function Baddog() {
       <img src={bdlogo} alt="bad dog logo" />
       <h1>Bad Dog</h1>
       <br />
-      <h2>Captians: Laura Salvas & Chris Besler </h2>
+      <h2>Captains: Laura Salvas & Chris Besler </h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is

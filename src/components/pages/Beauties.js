@@ -8,7 +8,7 @@ export default function Beauties() {
       <img src={blogo} alt="beauties" />
       <h1>THE BEAUTIES</h1>
       <br />
-      <h2>Captians: Amber Purnis & Scott Beaumeester</h2>
+      <h2>Captains: Amber Purnis & Scott Beaumeester</h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is

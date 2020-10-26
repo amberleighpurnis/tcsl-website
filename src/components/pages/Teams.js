@@ -10,7 +10,7 @@ import hlogo from "./Images/hlogo.png";
 import pthingslogo from "./Images/pthingslogo.png";
 import sloclapslogo from "./Images/sloclapslogo.png";
 import orphanslogo from "./Images/orphanslogo.png";
-import placeholder from "./Images/placeholder.png";
+import jboxlogo from "./Images/jboxlogo.png";
 
 export default function Teams(props) {
   return (
@@ -40,13 +40,9 @@ export default function Teams(props) {
         </ul>
         <ul>
           <Link to="/teams/jokebox" className="team-link">
-            <img
-              src={placeholder}
-              alt="placeholder logo"
-              className="team-logo"
-            />
+            <img src={jboxlogo} alt="Jokebox Logo logo" className="team-logo" />
           </Link>
-          <li>Joke Box</li>
+          <li>Jokebox</li>
         </ul>
         <ul>
           <Link to="/teams/hecklers" className="team-link">

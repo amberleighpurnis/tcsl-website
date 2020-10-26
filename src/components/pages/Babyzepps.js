@@ -8,7 +8,7 @@ export default function Babyzepps() {
       <img src={bzlogo} alt="baby zepps logo" />
       <h1>Baby Zepps</h1>
       <br />
-      <h2>Captians: Dan Galea & Helder Brum</h2>
+      <h2>Captains: Dan Galea & Helder Brum</h2>
       <p> Team Statistics:</p>
       <footer>
         This website was coded by Amber Purnis and is
