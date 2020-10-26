@@ -13,7 +13,18 @@
   width: 700px;
   height: 500px;
 }
+.awards {
+  color: #112577;
+}
 
+.awards h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
+  text-align: center;
+  font-family: "Piedra", cursive;
+}
 .home {
   color: #112577;
 }
@@ -31,8 +42,8 @@
 .home body {
   font-family: "Poppins", sans-serif;
   text-align: justify;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .home a {
@@ -45,9 +56,9 @@
 
 .rules {
   color: #112577;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-bottom: 100px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 20%;
   text-align: justify;
 }
 .rules h1 {
@@ -77,6 +88,22 @@
 }
 .schedule {
   color: #112577;
+}
+
+.team-name {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-gap: 60px;
+  text-align: center;
+  justify-content: center;
+}
+li {
+  list-style: none;
+}
+
+.team-logo {
+  height: 100px;
+  width: 100px;
 }
 
 .schedule h1 {
@@ -121,8 +148,33 @@
   color: red;
 }
 
+.ec-list {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 60px;
+  text-align: center;
+  justify-content: center;
+}
+
 .photos {
   color: #112577;
+}
+
+.teams h3 {
+  font-family: "Bungee Shade", cursive;
+  color: #112577;
+  text-align: center;
+  font-size: 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.teams h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: #112577;
+  text-align: center;
+  font-family: "Piedra", cursive;
 }
 
 footer {
@@ -131,4 +183,31 @@ footer {
   text-align: center;
   font-size: 12px;
   font-family: "Poppins", sans-serif;
+}
+
+@media screen and (max-width: 960px) {
+  #main-logo {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: auto;
+    width: 350px;
+    height: 250px;
+  }
+  .teams h3 {
+    font-family: "Bungee Shade", cursive;
+    color: #112577;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    position: relative;
+  }
+  .team-name {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 90vh;
+    position: relative;
+  }
 }

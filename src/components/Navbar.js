@@ -77,8 +77,8 @@ export default function Navbar() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/photos" className="nav-links" onClick={closeMobileMenu}>
-              Photos
+            <Link to="/awards" className="nav-links" onClick={closeMobileMenu}>
+              Awards
             </Link>
           </li>
         </ul>

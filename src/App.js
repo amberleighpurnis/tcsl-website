@@ -18,7 +18,7 @@ import Rules from "./components/pages/Rules";
 import Schedule from "./components/pages/Schedule";
 import Stats from "./components/pages/Stats";
 import ECommittee from "./components/pages/ECommittee";
-import Photos from "./components/pages/Photos";
+import Awards from "./components/pages/Awards";
 
 export default function App() {
   return (
@@ -42,7 +42,7 @@ export default function App() {
           <Route path="/schedule" component={Schedule} />
           <Route path="/stats" component={Stats} />
           <Route path="/ec" component={ECommittee} />
-          <Route path="/photos" component={Photos} />
+          <Route path="/awards" component={Awards} />
         </Switch>
       </Router>
     </>

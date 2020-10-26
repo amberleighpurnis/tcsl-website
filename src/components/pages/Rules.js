@@ -4,7 +4,7 @@ import "../../App.css";
 export default function Rules() {
   return (
     <div className="rules">
-      <h1>TSCL SOFTBALL LEAGUE RULES OF PLAY (2017)</h1>
+      <h1>TSCL SOFTBALL LEAGUE RULES OF PLAY</h1>
       <h4>
         Note: For areas not covered or excepted in these rules standard baseball
         rules will apply. The Executive Committee, on reviewing any situation,

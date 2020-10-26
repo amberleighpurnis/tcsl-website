@@ -17,6 +17,9 @@ h2 {
 }
 .babyzepps p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 .baddog {
   background-color: #0d2340;
@@ -37,6 +40,9 @@ h2 {
 }
 .baddog p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 
 .beauties {
@@ -58,9 +64,12 @@ h2 {
 }
 .beauties p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 .beavis {
-  background-color: palegreen;
+  background-color: #28df99;
   color: #4295d1;
   width: 100%;
   height: 100%;
@@ -78,6 +87,9 @@ h2 {
 }
 .beavis p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 
 .cbar {
@@ -99,6 +111,9 @@ h2 {
 }
 .cbar p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 
 .hecklers {
@@ -120,6 +135,9 @@ h2 {
 }
 .hecklers p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 .jokebox {
   background-color: #01baf5;
@@ -140,10 +158,13 @@ h2 {
 }
 .jokebox p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 .orphans {
-  background-color: #42255e;
-  color: grey;
+  background-color: #bcbcbc;
+  color: #662d91;
   width: 100%;
   height: 100%;
 }
@@ -160,6 +181,9 @@ h2 {
 }
 .orphans p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 .pthings {
   background-color: black;
@@ -180,6 +204,9 @@ h2 {
 }
 .pthings p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
 }
 .sloclaps {
   background-color: #653101;
@@ -200,4 +227,13 @@ h2 {
 }
 .sloclaps p {
   font-size: 25px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 25%;
+}
+
+.description {
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
 }

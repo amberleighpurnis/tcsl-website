@@ -60,6 +60,13 @@ img {
   .NavbarItems {
     position: relative;
   }
+  img {
+    justify-self: start;
+    cursor: pointer;
+    width: 55px;
+    height: 40px;
+    margin-left: 15px;
+  }
 
   .nav-menu {
     display: flex;
