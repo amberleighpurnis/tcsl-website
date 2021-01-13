@@ -53,6 +53,11 @@
 .teams {
   color: #112577;
 }
+.tcsl-schedule {
+  border: 5px solid #112577;
+  display: block;
+  margin: 0 auto;
+}
 
 .rules {
   color: #112577;
@@ -191,7 +196,7 @@ footer {
     padding-top: 10px;
     padding-bottom: 20px;
     margin-left: 10%;
-  margin-right: 10%;
+    margin-right: 10%;
     width: 350px;
     height: 250px;
   }

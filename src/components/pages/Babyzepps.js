@@ -10,6 +10,15 @@ export default function Babyzepps() {
       <br />
       <h2>Captains: Dan Galea & Helder Brum</h2>
       <p> Team Statistics:</p>
+      <br />
+      <div>
+        <iframe
+          src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTC88WoXfs5aB9JTpYlPS2zTMlaDthUlqyF2VypqWPYJkueEmDtGeFFNDYYnfqRqb7ICTQBzVvbFQuE/pubhtml?gid=189768612&fvid=1961323144&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"
+          title="Zepps-Stats"
+          width="1000px"
+          height="800px"
+        />
+      </div>
       <footer>
         This website was coded by Amber Purnis and is
         <a
